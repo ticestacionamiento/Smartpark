@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pdftotext *)",
+      "Bash(python3 *)",
+      "Bash(pdftohtml \"/home/outside/Escritorio/SmartPark/Documentación/Arquitectura del sistema.pdf\" -)",
+      "Bash(npx tsc *)",
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000)",
+      "WebFetch(domain:universe.roboflow.com)"
+    ]
+  }
+}

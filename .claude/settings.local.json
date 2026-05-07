@@ -7,7 +7,9 @@
       "Bash(npx tsc *)",
       "Bash(npm run *)",
       "Bash(curl -s http://localhost:3000)",
-      "WebFetch(domain:universe.roboflow.com)"
+      "WebFetch(domain:universe.roboflow.com)",
+      "Bash(lscpu)",
+      "Bash(nvidia-smi --query-gpu=name --format=csv,noheader)"
     ]
   }
 }
